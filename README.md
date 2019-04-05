@@ -9,3 +9,11 @@ Manage and quickly setup different git configuration from command line. This too
 - repo D : identity 2
 
 The command line allow you to define these identities and configuration only one time. You can then apply then to the relevant repositories.
+
+## A - Adding git configs
+
+(WIP)
+
+## B - Applying and managing your git configs
+
+(WIP)

@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+"""Command line to setup git config
+
+A CLI that read load configuration files and
+then setup git config according to the specified file
+
+"""
+
+import click
+
+from gitconfigs import GitConfig
